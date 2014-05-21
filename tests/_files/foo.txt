@@ -1,0 +1,1 @@
+E_NOTICE: errortest in /home/jpauli/www/developpez/Observer-SPL-PHP-Pattern/tests/_files/MockErrorHandler.php on line 8
